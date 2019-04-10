@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(238,233,233);
+    font-size: 16px;
+    margin: 0px;
+    font-family: verdana, Georgia, serif;
+}
+
+#header{
+    background-color: rgb(224,255,255);
+    text-shadow: 3px 3px 5px rgb(255,255,255,0.5);
+    font-size: 170%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding: 0px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(0,0,0);
+    height: 110px;
+}
+
+#navbar ul{
+    list-style-type: none;
+    background-color: rgb(224,255,255);
+    border-radius: 5px;
+    margin : 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+#navbar ul li{
+    display: inline;
+}
+
+#navbar ul li a{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(0,0,0);
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#navbar ul li a:hover{
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0);
+    border-radius: 5px;
+}
+
+.maincontent{
+    margin: 10px;
+    margin-left: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(152,252,152);
+}
+
+#leftsidebar{
+    background-color: rgb(224,255,255);
+    margin: 10px;
+    margin-top: 0px;
+    border-radius:5px;
+    padding: 0px;
+    width: 230px;
+    float: left;
+}
+
+#leftsidebar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#leftsidebar ul li{
+    list-style-type: none;
+    padding: 10px;
+    border-radius:5px;
+}
+
+#leftsidebar ul a{
+    display: block;
+    text-decoration: none;
+    color: rgb(255,255,255);
+    padding-left: 10px;
+}
+
+#leftsidebar ul li:nth-child(even){
+    background-color: rgb(0,255,127);
+}
+
+#leftsidebar ul a:hover{
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0);
+    border-radius: 2px;
+}
+
+#foot{
+    background-color: rgb(45,45,45);
+    font-size: 120%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding: 0px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(0,0,0);
+    height: 99px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

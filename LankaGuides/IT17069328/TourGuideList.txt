@@ -1,0 +1,5 @@
+{"tourguides":[
+  { "firstName":"John", "lastName":"Doe" , "phone" :  "0812233770", "email" :  "jdoe@gmail.com" , "verified" :  "true"},
+  { "firstName":"Anna", "lastName":"Smith"  , "phone" :  "0312233890" , "email" :  "anna@gmail.com", "verified" :  "true"},
+  { "firstName":"Peter", "lastName":"Jones"  , "phone" :  "011533650" , "email" :  "pjones@yahoo.com", "verified" :  "true"}
+]}

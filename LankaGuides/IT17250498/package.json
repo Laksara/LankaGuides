@@ -1,0 +1,20 @@
+{
+  "name": "lankaguidesit17250498",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "BandaraIT17250498",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
